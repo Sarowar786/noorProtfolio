@@ -19,7 +19,7 @@ export default function Header() {
           <img
             src={logo}
             alt="logo "
-            className="w-14 opacity-75 border-2 border-designColor rounded-lg hover:opacity-100 hover:cursor-pointer duration-300 "
+            className="w-full h-64 opacity-75 rounded-lg hover:opacity-100 hover:cursor-pointer duration-300 "
           />
         </div>
 

@@ -9,7 +9,7 @@ import Project from "./ui/Project"
 function App() {
 
   return (
-    <main className="font-bodyFont min-h-screen bg-primaryColor text-lightText ">
+    <main className="font-bodyFont min-h-screen bg-primaryColor text-lightText">
       <Header/>
       <Banner/>
       <About/>
